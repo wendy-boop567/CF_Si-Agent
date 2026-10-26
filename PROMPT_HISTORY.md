@@ -6,7 +6,7 @@
 **GitHub repository:** `CF_SI-Agent`  
 **Cloudflare Worker:** `si-agent`  
 **Deployment URL:** https://si-agent.cf-si-agent.workers.dev  
-**External website:** https://ermiao.duckdns.org
+
 
 ### Purpose
 
