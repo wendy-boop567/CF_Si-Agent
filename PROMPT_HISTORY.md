@@ -95,7 +95,7 @@ These are developer-reported manual tests, not an independent automated test sui
 
 **Actual user question:**
 
-> can this AI see ermiao.duckdns.org, or search anything on the internet?
+> Can this AI search for current information on the internet? (paraphrased for scope)
 
 The conversation explored the distinction between an LLM's general knowledge and live access to external information. The AI suggested that additional tools or a curated knowledge source could support document lookup and web search.
 
